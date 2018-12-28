@@ -1,5 +1,5 @@
 # TradingBotCCXT
-Simple short-term hold and pray type bots and a couple of scripts to identify arbitrage opportunities.
+Simple short-term hold-and-pray type bots and a couple of scripts to identify arbitrage opportunities.
 
 The bots are for buying the 10 lowest volume pairs and holding for a determined time while checking whether the price has dropped 1% (at which time you cut your losses) or risen 2% (at which time you capitalize). 
 
